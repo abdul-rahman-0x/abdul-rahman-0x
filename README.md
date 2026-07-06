@@ -1,3 +1,3 @@
-#### Hi, I'm Abdul Rahman 👋🏻
+## Hi, I'm Abdul Rahman 👋🏻
 
-*I turn hard business problems into software that just works.*
+*Building high-fidelity frontends, type-safe serverless backends, and developer-centric cloud infrastructure.*
