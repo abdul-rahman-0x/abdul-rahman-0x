@@ -1,3 +1,3 @@
 ## Hi, I'm Abdul Rahman 👋🏻
 
-*Building high-fidelity frontends, type-safe serverless backends, and developer-centric cloud infrastructure.*
+*Full-stack engineer who loves building AI-powered products from idea to production.*
